@@ -1,6 +1,6 @@
 import pygame
 import random
-
+wwdcwcwe
 def draw_grid(screen):
     for i in range(1, 16):
         pygame.draw.line(screen, (0,0,0), (0, i*32), (640,i*32))
